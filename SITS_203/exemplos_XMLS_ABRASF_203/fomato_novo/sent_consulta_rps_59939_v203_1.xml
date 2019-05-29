@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarLoteRpsEnvio xmlns="http://shad.elotech.com.br/schemas/iss/nfse_v2_03.xsd">
+	<IdentificacaoRequerente>
+		<CpfCnpj>
+			<Cnpj>02847928000131</Cnpj>
+		</CpfCnpj>
+		<InscricaoMunicipal>59939</InscricaoMunicipal>
+		<Senha>GGARCY9A</Senha>
+		<Homologa>false</Homologa>
+	</IdentificacaoRequerente>
+	<NumeroLote>2</NumeroLote>
+</ConsultarLoteRpsEnvio>

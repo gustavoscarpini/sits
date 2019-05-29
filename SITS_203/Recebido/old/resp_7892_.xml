@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnviarLoteRpsResposta xmlns="http://shad.elotech.com.br/schemas/iss/nfse_v2_03.xsd"><ListaMensagemRetorno><MensagemRetorno><Codigo>S3</Codigo><Mensagem>Somente serviço de homologação.</Mensagem><Correcao>Para este requerente somente o ambiente de homologação está habilitado, ative o flag de produção.</Correcao></MensagemRetorno></ListaMensagemRetorno></EnviarLoteRpsResposta>

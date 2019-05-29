@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseRpsEnvio xmlns="http://shad.elotech.com.br/schemas/iss/nfse_v2_03.xsd">
+	<IdentificacaoRps>
+		<Numero>2</Numero>
+		<Serie>RPS</Serie>
+		<Tipo>1</Tipo>
+	</IdentificacaoRps>
+	<IdentificacaoRequerente>
+		<CpfCnpj>               
+			<Cnpj>02847928000131</Cnpj>
+		</CpfCnpj>
+		<InscricaoMunicipal>59939</InscricaoMunicipal>
+		<Senha>GGARCY9A</Senha>
+		<Homologa>false</Homologa>
+	</IdentificacaoRequerente>
+</ConsultarNfseRpsEnvio>
+

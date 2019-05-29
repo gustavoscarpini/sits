@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnviarLoteRpsResposta xmlns="http://shad.elotech.com.br/schemas/iss/nfse_v2_03.xsd"><ListaMensagemRetorno><MensagemRetorno><Codigo>S17</Codigo><Mensagem>Requerente não credenciado.</Mensagem><Correcao>Informe um requerente que possua o credenciamento e habilitação para utilização da NFS-e no município.</Correcao></MensagemRetorno></ListaMensagemRetorno></EnviarLoteRpsResposta>
